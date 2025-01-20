@@ -1,0 +1,3 @@
+* I could probably use one more Python module in between 4 and 5, perhaps for Vigenere.
+* Write a Python module for RSA as well.
+* Indicate what prerequisite knowledge (esp. mathematical) is required for each module.
